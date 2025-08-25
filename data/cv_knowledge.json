@@ -1,0 +1,206 @@
+{
+  "persona": {
+    "keywords": ["intro", "introduce yourself", "about you", "who are you", "your name"],
+    "responses": [
+      "Hello 👋, I’m **Md. Jahidul Islam**, currently working as a Front-End Web Developer at **DeepMind Labs**, and I’m open to Full-Time Software Engineer opportunities."
+    ]
+  },
+
+  "conversation": {
+    "greetings": {
+      "keywords": ["hi", "hello", "hey", "good morning", "good evening", "greetings"],
+      "responses": [
+        "Hi there 👋, how are you doing?",
+        "Hello 😃, nice to meet you!",
+        "Hey 🙌, hope you’re having a great day!"
+      ]
+    },
+    "farewell": {
+      "keywords": ["bye", "goodbye", "see you", "take care"],
+      "responses": [
+        "Goodbye 👋, have a wonderful day ahead!",
+        "See you later 🙌, thanks for chatting with me.",
+        "Take care and best wishes 👍!"
+      ]
+    },
+    "how_are_you": {
+      "keywords": ["how are you", "how are you doing", "how's life"],
+      "responses": [
+        "I’m doing great, thanks for asking! 😄",
+        "I’m excellent 🚀 Busy building ideas and learning new tech.",
+        "Fantastic 🌟 Always excited to discuss skills & projects!"
+      ]
+    },
+    "date_time": {
+      "keywords": ["what time is it", "current time", "current date", "today's date", "day today", "date and time"],
+      "responses": [
+        "⏰ I don’t keep a clock, but your system/device time is the most accurate.",
+        "🗓️ I don’t track time myself — but you can always check your device clock 😃."
+      ]
+    },
+    "jokes": {
+      "keywords": ["tell me a joke", "joke", "funny", "make me laugh"],
+      "responses": [
+        "😂 Why do programmers prefer dark mode? Because light attracts bugs 🐞.",
+        "🤣 Debugging is like being the detective in a crime movie where you are also the murderer 🤯."
+      ]
+    }
+  },
+
+  "personal_details": {
+  "all": {
+    "keywords": [
+      "contact details",
+      "personal details",
+      "give me your details",
+      "your info",
+      "contact information",
+      "phone number",
+      "email address",
+      "email",
+      "your phone",
+      "your email",
+      "linkedin",
+      "github",
+      "social profiles",
+      "social media"
+    ],
+    "responses": [
+      "📇 **Personal Details**:\n\n👤 Name: Md. Jahidul Islam\n💼 Designation: Software Engineer (Front-End Developer at DeepMind Labs)\n📞 Phone: +8801840244335\n📧 Email: mdjahidulislamjahid099@gmail.com\n🔗 LinkedIn: [linkedin.com/in/jahid1n1](https://www.linkedin.com/in/jahid1n1/)\n💻 GitHub: [github.com/JAHIDUL456](https://github.com/JAHIDUL456)"
+    ]
+  }
+},
+
+  "education": {
+    "university": {
+      "keywords": ["university", "ruet", "ruet university"],
+      "responses": [
+        "🎓 **Bachelor of Science in Electronics & Telecommunication Engineering (ETCE)** – Rajshahi University of Engineering and Technology (RUET), 2020–2025. CGPA: 3.60/4.00 (Ranked 6th, Excellence Scholarship in all semesters)."
+      ]
+    },
+    "college": {
+      "keywords": ["college", "hsc", "higher secondary"],
+      "responses": [
+        "📘 **Higher Secondary Certificate (Science)** – National Ideal College, Dhaka, 2017–2019. GPA: 5.00/5.00."
+      ]
+    },
+    "school": {
+      "keywords": ["school", "ssc", "secondary"],
+      "responses": [
+        "📗 **Secondary School Certificate (Science)** – National Ideal School, Dhaka, 2016–2017. GPA: 5.00/5.00."
+      ]
+    },
+    "all": {
+      "keywords": ["education", "study", "qualification", "educational background", "academics"],
+      "responses": [
+        "📚 **Complete Education Background**:\n\n🎓 RUET – B.Sc. Electronics & Telecommunication Engineering, 2020–2025. CGPA: 3.60/4.00 (Ranked 6th).\n📘 National Ideal College – HSC (Science), 2017–2019. GPA: 5.00/5.00.\n📗 National Ideal School – SSC (Science), 2016–2017. GPA: 5.00/5.00."
+      ]
+    }
+  },
+
+  "skills": {
+    "technical": {
+      "keywords": ["technical skills", "tech stack", "programming skills", "hard skills"],
+      "responses": [
+        "💻 **Technical Skills**:\n- React.js, Next.js, Tailwind CSS, HTML5, CSS3\n- JavaScript, TypeScript, Python, C, C++\n- MySQL, Power BI, Machine Learning/AI basics\n- Git/GitHub, PCB Design, SCADA, Networking"
+      ]
+    },
+    "soft": {
+      "keywords": ["soft skills", "communication skills", "personal skills"],
+      "responses": [
+        "🌟 **Soft Skills**:\n- Problem Solving & Analytical Thinking\n- Adaptability & Continuous Learning\n- Leadership & Teamwork\n- Effective Communication"
+      ]
+    },
+    "all": {
+      "keywords": ["skills", "abilities", "strengths", "what can you do"],
+      "responses": [
+        "💻 **Technical Skills**: React.js, Next.js, Tailwind CSS, Python, C, C++, MySQL, Power BI, Git/GitHub, AI/ML basics.\n\n🌟 **Soft Skills**: Problem Solving, Adaptability, Communication, Leadership, Collaboration."
+      ]
+    }
+  },
+
+  "experience": {
+    "deepmind": {
+      "keywords": ["deepmind", "current job"],
+      "responses": [
+        "💼 **Front-End Web Developer** – DeepMind Labs (2025–Present). Building advanced front-end experiences for AI systems."
+      ]
+    },
+    "outlier": {
+      "keywords": ["outlier", "remote job", "remote work"],
+      "responses": [
+        "🌎 **Front-End Developer (Remote)** – Outlier (Nov 2024 – May 2025). Worked on real-world AI training platforms using Front-End tech."
+      ]
+    },
+    "codesoft": {
+      "keywords": ["codesoft", "internship"],
+      "responses": [
+        "🧑‍💻 **Web Developer Intern** – CodeSoft, India (Aug 2024 – Nov 2024). Built responsive projects with HTML, CSS, and React."
+      ]
+    },
+    "think": {
+      "keywords": ["think", "industrial trainee"],
+      "responses": [
+        "⚙️ **Industrial Trainee** – THiNK, Bangladesh (March 2024). Gained knowledge in SCADA, PCB, and PLC programming."
+      ]
+    },
+    "all": {
+      "keywords": ["experience", "career", "jobs", "professional background", "work"],
+      "responses": [
+        "💼 **Experience**:\n\n- DeepMind Labs – Front-End Developer (2025–Present)\n- Outlier (Remote) – Front-End Developer (2024–2025)\n- CodeSoft, India – Web Developer Intern (2024)\n- THiNK, Bangladesh – Industrial Trainee (2024)"
+      ]
+    }
+  },
+
+  "projects": {
+    "all": {
+      "keywords": ["projects","project", "portfolio", "apps", "applications", "apps you built", "portfolio work"],
+      "responses": [
+        "🚀 **Projects Portfolio**:\n- BD_AI – AI Service Website\n- FASHION_BD – E-commerce App\n- MovieSpot – Movie Recommendation App\n- AI Voice Assistant – NLP-powered App\n- ML Diagnosis Framework – Healthcare AI tool\n- IoT Device Controller – Web IoT tool\n- Hungry Kid – Restaurant Demo Website\n- Business Dashboard – Python + Power BI"
+      ]
+    }
+  },
+
+  "achievements": {
+    "all": {
+      "keywords": ["achievements", "awards", "recognitions", "honors","award","certificate"],
+      "responses": [
+        "🏆 **Top Project Award** – For developing an NLP-based AI Voice Assistant.\n🎖 **Event Management Award** – Recognized at Etechnovation."
+      ]
+    }
+  },
+
+  "certifications": {
+    "all": {
+      "keywords": ["certifications", "certification", "courses", "trainings"],
+      "responses": [
+        "📜 **Certifications**:\n- Google IT Support Professional (Coursera)\n- Google Cloud Fundamentals\n- Python Programming Essentials – Rice University\n- Web Development Foundations – Duke University & University of London\n- Cybersecurity & IoT – University of Colorado\n- Front-End Foundations – BitDegree"
+      ]
+    }
+  },
+
+  "languages": {
+    "all": {
+      "keywords": ["languages", "what do you speak", "communication", "multilingual","language"],
+      "responses": [
+        "🌍 **Languages**:\n- English (Fluent)\n- Bengali (Native)\n- Hindi (Conversational)\n- German (Beginner)"
+      ]
+    }
+  },
+
+  "career_objective": {
+    "all": {
+      "keywords": ["career objective", "objective", "goal", "future plan", "career plan", "what are you looking for"],
+      "responses": [
+        "🚀 My career goal is to secure a Full-Time **Software Engineer position**, applying modern Front-End tech, AI/ML, and scalable systems.\n🌱 I aim to contribute to global innovation while growing as a professional."
+      ]
+    }
+  },
+
+  "fallbacks": {
+    "unmatched_responses": [
+      "🤔 That’s a great question — it may not be in my CV but I’m eager to learn and grow in that area.",
+      "🙌 Interesting! Even though it’s not listed directly, I have the adaptability to pick it up quickly."
+    ]
+  }
+}
