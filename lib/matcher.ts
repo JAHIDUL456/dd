@@ -2,7 +2,7 @@ import knowledge from "../data/cv_knowledge.json";
 
 export function findBestResponse(question: string): string {
   const q = question.toLowerCase();
-
+//this is the main changes
   for (const section in knowledge) {
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     const sectionData = (knowledge as any)[section];
